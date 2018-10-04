@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<GridPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="150.0" prefWidth="597.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="com.company.welcome05controller">
+    <columnConstraints>
+        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+    </columnConstraints>
+    <rowConstraints>
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+    </rowConstraints>
+    <children>
+        <Button fx:id="smartButton" mnemonicParsing="false" onAction="#setSmart" prefHeight="150.0" prefWidth="334.0" text="Smart Computer&#10;Player" textAlignment="CENTER" textFill="#1402d7" GridPane.halignment="CENTER" GridPane.valignment="CENTER">
+            <font>
+                <Font name="Impact" size="29.0" />
+            </font>
+        </Button>
+        <Button fx:id="randomButton" mnemonicParsing="false" onAction="#setRandom" prefHeight="150.0" prefWidth="334.0" text="Random Computer&#10;Player" textAlignment="CENTER" textFill="#1402d7" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.valignment="CENTER">
+            <font>
+                <Font name="Impact" size="29.0" />
+            </font>
+        </Button>
+    </children>
+</GridPane>

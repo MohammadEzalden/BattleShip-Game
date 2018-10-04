@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.*?>
+<?import java.lang.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane fx:id="bp" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="650.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.company.welcome05controller">
+    <center>
+        <HBox prefHeight="100.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+            <children>
+                <VBox>
+                    <children>
+                        <GridPane fx:id="gpgame" gridLinesVisible="true" maxHeight="476.0" prefHeight="500.0" prefWidth="650.0">
+
+                            <opaqueInsets>
+                                <Insets />
+                            </opaqueInsets>
+                            <VBox.margin>
+                                <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+                            </VBox.margin>
+                        </GridPane>
+                  <Label fx:id="LT" alignment="CENTER" prefHeight="70.0" prefWidth="565.0" textAlignment="CENTER" textFill="#06c2f2">
+                     <font>
+                        <Font size="37.0" />
+                     </font></Label>
+
+
+                  <JFXButton fx:id="Bexit" buttonType="RAISED" onAction="#endgame" prefHeight="25.0" prefWidth="562.0" stylesheets="@style03.css" text="End Game" textFill="RED" />
+                  <JFXButton onAction="#QuickSave" prefHeight="25.0" prefWidth="164.0" stylesheets="@style05.css" text="Quick Save" />
+                  <JFXButton onAction="#Savef" prefHeight="25.0" prefWidth="165.0" stylesheets="@style06.css" text="Save" />
+                    </children>
+                </VBox>
+                <VBox>
+                    <children>
+                        <GridPane fx:id="gp2game" gridLinesVisible="true" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="400.0" VBox.vgrow="ALWAYS">
+                            <VBox.margin>
+                                <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+                            </VBox.margin>
+                            <rotationAxis>
+                            </rotationAxis>
+                        </GridPane>
+                        <VBox prefHeight="125.0" prefWidth="400.0">
+                            <children>
+                        <Label fx:id="statusLabel" prefHeight="108.0" prefWidth="144.0" />
+                            </children>
+                            <VBox.margin>
+                                <Insets top="20.0" />
+                            </VBox.margin>
+                            <padding>
+                                <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                            </padding>
+                        </VBox>
+                  <JFXButton fx:id="enemyButton" onAction="#enemyGrid" prefHeight="25.0" prefWidth="98.0" stylesheets="@style03.css" text="Cheat">
+                     <font>
+                        <Font size="20.0" />
+                     </font>
+                  </JFXButton>
+                    </children>
+                    <HBox.margin>
+                        <Insets left="50.0" />
+                    </HBox.margin>
+                </VBox>
+            </children>
+        </HBox>
+    </center>
+</BorderPane>

@@ -1,0 +1,1140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="FirstAssignment:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/com/company/welcome01controller.java" line="81" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5d09496-80a7-4f2a-aded-782ee702d5b3" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/1st_part$GUI.coverage" NAME="GUI Coverage Results" MODIFIED="1514589598073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.company.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="welcome05controller.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/welcome05controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="697" column="0" lean-forward="false" selection-start-line="697" selection-start-column="0" selection-end-line="697" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#setGpgame2#0;class#welcome05controller#0" expanded="false" />
+                <element signature="method#getGetnextmove#0;class#welcome05controller#0" expanded="false" />
+                <element signature="method#initializeGridwithoutattack#0;class#welcome05controller#0" expanded="false" />
+                <element signature="method#initializeGrid#0;class#welcome05controller#0" expanded="false" />
+                <element signature="method#addPane#0;class#welcome05controller#0" expanded="false" />
+                <element signature="method#addPanewithoutindex#0;class#welcome05controller#0" expanded="false" />
+                <element signature="method#mackswitchright#0;class#welcome05controller#0" expanded="false" />
+                <element signature="method#mackswitchup#0;class#welcome05controller#0" expanded="false" />
+                <element signature="method#mackswitchdown#0;class#welcome05controller#0" expanded="false" />
+                <element signature="method#mackswitchleft#0;class#welcome05controller#0" expanded="false" />
+                <element signature="method#toggleAll#0;class#welcome05controller#0" expanded="false" />
+                <element signature="method#updateButtons#0;class#welcome05controller#0" expanded="false" />
+                <element signature="method#setDimLabel#0;class#welcome05controller#0" expanded="false" />
+                <element signature="method#fillShip#0;class#welcome05controller#0" expanded="false" />
+                <element signature="method#load06#0;class#welcome05controller#0" expanded="false" />
+                <element signature="method#handle#0;class#welcome05controller#0" expanded="false" />
+                <element signature="method#setRandom#0;class#welcome05controller#0" expanded="false" />
+                <element signature="method#setSmart#0;class#welcome05controller#0" expanded="false" />
+                <element signature="method#updategpgame2Gridpane#0;class#welcome05controller#0" expanded="false" />
+                <element signature="e#32296#35185#0" expanded="true" />
+                <element signature="e#35184#35185#0" expanded="true" />
+                <element signature="method#turncounter#0;class#welcome05controller#0" expanded="false" />
+                <element signature="e#35351#35844#0" expanded="true" />
+                <element signature="e#35843#35844#0" expanded="true" />
+                <element signature="method#updatecoumputerGridpane#0;class#welcome05controller#0" expanded="false" />
+                <element signature="e#36024#37122#0" expanded="true" />
+                <element signature="e#37121#37122#0" expanded="true" />
+                <element signature="method#enemyGrid#0;class#welcome05controller#0" expanded="false" />
+                <element signature="e#38394#39730#0" expanded="true" />
+                <element signature="e#39729#39730#0" expanded="true" />
+                <element signature="method#endgame#0;class#welcome05controller#0" expanded="false" />
+                <element signature="method#score#0;class#welcome05controller#0" expanded="false" />
+                <element signature="e#41145#41157#0" expanded="true" />
+                <element signature="method#QuickSave#0;class#welcome05controller#0" expanded="false" />
+                <element signature="method#Savef#0;class#welcome05controller#0" expanded="false" />
+                <element signature="method#QuickLoad#0;class#welcome05controller#0" expanded="false" />
+                <element signature="method#ViewScores#0;class#welcome05controller#0" expanded="false" />
+                <element signature="e#46639#46651#0" expanded="true" />
+                <element signature="method#Loadf#0;class#welcome05controller#0" expanded="false" />
+                <element signature="method#GameHistory#0;class#welcome05controller#0" expanded="false" />
+                <element signature="method#SerchName#0;class#welcome05controller#0" expanded="false" />
+                <element signature="method#LoadGame#0;class#welcome05controller#0" expanded="false" />
+                <element signature="method#entername#0;class#welcome05controller#0" expanded="false" />
+                <element signature="method#SerchNametable2#0;class#welcome05controller#0" expanded="false" />
+                <element signature="method#Stepbystep#0;class#welcome05controller#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="welcome06game.fxml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/welcome06game.fxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="858">
+              <caret line="39" column="41" lean-forward="false" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="welcome04.fxml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/welcome04.fxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="20" column="34" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BattleshipGame.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/BattleshipGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="25" column="54" lean-forward="false" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+              <folding>
+                <element signature="method#runGame#0;class#BattleshipGame#0" expanded="false" />
+                <element signature="method#subscribe#0;class#BattleshipGame#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BattleshipPlayer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/BattleshipPlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="method#acceptPlayerMove#0;class#BattleshipPlayer#0" expanded="false" />
+                <element signature="class#BattleshipMove#0;class#BattleshipPlayer#0" expanded="false" />
+                <element signature="class#BattleshipMoveResult#0;class#BattleshipPlayer#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ship.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Ship.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+              <folding>
+                <element signature="method#Ship#0;class#Ship#0" expanded="false" />
+                <element signature="class#getshipsparts#0;class#Ship#0" expanded="false" />
+                <element signature="method#destroyShip#0;class#Ship#0" expanded="false" />
+                <element signature="method#vacant#0;class#Ship#0" expanded="false" />
+                <element signature="method#addShip#0;class#Ship#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Table03.fxml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Table03.fxml">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Load.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Load.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1188">
+              <caret line="102" column="51" lean-forward="false" selection-start-line="102" selection-start-column="51" selection-end-line="102" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#openQuickLoad#0;class#Load#0" expanded="false" />
+                <element signature="method#QuickLoad#0;class#Load#0" expanded="false" />
+                <element signature="method#endQuickLoad#0;class#Load#0" expanded="false" />
+                <element signature="method#opengames#0;class#Load#0" expanded="false" />
+                <element signature="method#loadgames#0;class#Load#0" expanded="false" />
+                <element signature="method#endgames#0;class#Load#0" expanded="false" />
+                <element signature="method#openMarkPlayer#0;class#Load#0" expanded="false" />
+                <element signature="method#loadmarkplayer#0;class#Load#0" expanded="false" />
+                <element signature="method#endmarkplayer#0;class#Load#0" expanded="false" />
+                <element signature="method#openHist#0;class#Load#0" expanded="false" />
+                <element signature="method#loadHist#0;class#Load#0" expanded="false" />
+                <element signature="method#endHist#0;class#Load#0" expanded="false" />
+                <element signature="method#openid#0;class#Load#0" expanded="false" />
+                <element signature="method#idf#0;class#Load#0" expanded="false" />
+                <element signature="method#endid#0;class#Load#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Save.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Save.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="858">
+              <caret line="95" column="0" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+              <folding>
+                <element signature="method#openQuickSave#0;class#Save#0" expanded="false" />
+                <element signature="method#QuickSave#0;class#Save#0" expanded="false" />
+                <element signature="method#endQuickSave#0;class#Save#0" expanded="false" />
+                <element signature="method#opensavef#0;class#Save#0" expanded="false" />
+                <element signature="method#savef#0;class#Save#0" expanded="false" />
+                <element signature="method#endsavef#0;class#Save#0" expanded="false" />
+                <element signature="method#openMarkPlayer#0;class#Save#0" expanded="false" />
+                <element signature="method#SaveMarkPlayer#0;class#Save#0" expanded="false" />
+                <element signature="method#endMarkPlayer#0;class#Save#0" expanded="false" />
+                <element signature="method#openHist#0;class#Save#0" expanded="false" />
+                <element signature="method#saveHist#0;class#Save#0" expanded="false" />
+                <element signature="method#endHist#0;class#Save#0" expanded="false" />
+                <element signature="method#openid#0;class#Save#0" expanded="false" />
+                <element signature="method#idf#0;class#Save#0" expanded="false" />
+                <element signature="method#endid#0;class#Save#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="JavaFXApplication" />
+        <option value="CSS File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>grid</find>
+      <find>fil</find>
+      <find>b</find>
+      <find>#</find>
+      <find>battlesh</find>
+      <find>test</find>
+      <find>thread</find>
+      <find>updatecoumputerGridpane</find>
+      <find>addp</find>
+      <find>setnext</find>
+      <find>addpane</find>
+      <find>wadah</find>
+      <find>temp1</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>newg</replace>
+      <replace>c</replace>
+      <replace>turncounter</replace>
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/BattleshipMove.java" />
+        <option value="$PROJECT_DIR$/src/com/company/IPlayable.java" />
+        <option value="$PROJECT_DIR$/src/com/company/NotVacantException.java" />
+        <option value="$PROJECT_DIR$/src/com/company/AbstractComputerStrategy.java" />
+        <option value="$PROJECT_DIR$/src/com/company/BattleshipGame (jehad ab's conflicted copy 2017-12-02).java" />
+        <option value="$PROJECT_DIR$/src/com/company/Player.java" />
+        <option value="$PROJECT_DIR$/src/com/company/welcome02controller.java" />
+        <option value="$PROJECT_DIR$/src/com/company/welcome03controller.java" />
+        <option value="$PROJECT_DIR$/src/com/company/welcome04controller.java" />
+        <option value="$PROJECT_DIR$/src/com/company/welcome5controller.java" />
+        <option value="$PROJECT_DIR$/src/welcome01/welcome01controller.java" />
+        <option value="$PROJECT_DIR$/src/welcome01/welcome05controller.java" />
+        <option value="$PROJECT_DIR$/src/welcome01/welcome06controller.java" />
+        <option value="$PROJECT_DIR$/src/com/company/welcome01.fxml" />
+        <option value="$PROJECT_DIR$/src/com/company/welcome02.fxml" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/style01.css" />
+        <option value="$PROJECT_DIR$/src/com/company/style02.css" />
+        <option value="$PROJECT_DIR$/src/com/company/welcome03.fxml" />
+        <option value="$PROJECT_DIR$/src/com/company/welcome05addship.fxml" />
+        <option value="$PROJECT_DIR$/src/com/company/welcome06controller.java" />
+        <option value="$PROJECT_DIR$/src/com/company/ComputerPlayer.java" />
+        <option value="$PROJECT_DIR$/src/com/company/CPUPlayerGenerator.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Ship.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Square.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Game.java" />
+        <option value="$PROJECT_DIR$/src/com/company/BattleshipPlayer.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Grid.java" />
+        <option value="$PROJECT_DIR$/src/com/company/welcome07.fxml" />
+        <option value="$PROJECT_DIR$/src/com/company/GUI.java" />
+        <option value="$PROJECT_DIR$/src/com/company/GameHistory.java" />
+        <option value="$PROJECT_DIR$/src/com/company/MarkPlayer.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Table01.fxml" />
+        <option value="$PROJECT_DIR$/src/com/company/load01.fxml" />
+        <option value="$PROJECT_DIR$/src/com/company/HumanPlayer.java" />
+        <option value="$PROJECT_DIR$/src/com/company/SmartComputerStrategy.java" />
+        <option value="$PROJECT_DIR$/src/com/company/SmartComputerPlayer.java" />
+        <option value="$PROJECT_DIR$/src/com/company/RandomComputerStrategy.java" />
+        <option value="$PROJECT_DIR$/src/com/company/RandomComputerPlayer.java" />
+        <option value="$PROJECT_DIR$/src/com/company/welcome01controller.java" />
+        <option value="$PROJECT_DIR$/src/com/company/style05.css" />
+        <option value="$PROJECT_DIR$/src/com/company/style06.css" />
+        <option value="$PROJECT_DIR$/src/com/company/welcome06game.fxml" />
+        <option value="$PROJECT_DIR$/src/com/company/Table03.fxml" />
+        <option value="$PROJECT_DIR$/src/com/company/GameData.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Save.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Load.java" />
+        <option value="$PROJECT_DIR$/src/com/company/welcome04.fxml" />
+        <option value="$PROJECT_DIR$/src/com/company/BattleshipGame.java" />
+        <option value="$PROJECT_DIR$/src/com/company/welcome05controller.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="PackagesPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="1st part" type="58d84e3e:PackageViewProjectNode" />
+              <item name="FirstAssignment" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="1st part" type="58d84e3e:PackageViewProjectNode" />
+              <item name="FirstAssignment" type="616d4139:PackageViewModuleNode" />
+              <item name="com.company" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="1st part" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1st part" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1st part" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1st part" type="462c0819:PsiDirectoryNode" />
+              <item name="1work" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1st part" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1st part" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1st part" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1st part" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/jfoenix.jar!/" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="SearchEverywhereHistoryKey" value="notifyp&#9;PSI&#9;JAVA://com.company.BattleshipPlayer#notifyPlayer" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mhd\Desktop\FX\mix1\java\JAVA_P4 final\1st part\src\com\company" />
+      <recent name="C:\Users\mhd\Desktop\FX\mix1\java\JAVA_P4 final\1st part\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mhd\Desktop\FX\mix12\java\JAVA_P4 final\1st part\src\com\company" />
+      <recent name="C:\Users\mhd\Desktop\code\viusal\1st part\src\com\company" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GUI">
+    <configuration name="GUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.company.GUI" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="FirstAssignment" />
+      <envs />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="FirstAssignment" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="1" class="java.lang.String" itemvalue="Application.GUI" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.GUI" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5d09496-80a7-4f2a-aded-782ee702d5b3" name="Default" comment="" />
+      <created>1510760330897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1510760330897</updated>
+      <workItem from="1511295719835" duration="44000" />
+      <workItem from="1511330085489" duration="3649000" />
+      <workItem from="1511370386203" duration="2979000" />
+      <workItem from="1511410087726" duration="3485000" />
+      <workItem from="1511611361978" duration="1773000" />
+      <workItem from="1511982977275" duration="642000" />
+      <workItem from="1512031155964" duration="3703000" />
+      <workItem from="1512065381966" duration="20000" />
+      <workItem from="1512143912612" duration="3743000" />
+      <workItem from="1512223499907" duration="1070000" />
+      <workItem from="1512562126887" duration="2779000" />
+      <workItem from="1512566391611" duration="6448000" />
+      <workItem from="1512576593612" duration="598000" />
+      <workItem from="1512617850914" duration="6551000" />
+      <workItem from="1512935924583" duration="138000" />
+      <workItem from="1512965201402" duration="1941000" />
+      <workItem from="1512989092274" duration="4748000" />
+      <workItem from="1513002158465" duration="1342000" />
+      <workItem from="1513224328265" duration="7979000" />
+      <workItem from="1513237186999" duration="2940000" />
+      <workItem from="1513240204850" duration="2292000" />
+      <workItem from="1513614900423" duration="4169000" />
+      <workItem from="1513710897027" duration="138000" />
+      <workItem from="1514220717650" duration="6673000" />
+      <workItem from="1514263355047" duration="2991000" />
+      <workItem from="1514290953109" duration="20576000" />
+      <workItem from="1514346544307" duration="5340000" />
+      <workItem from="1514370893084" duration="7286000" />
+      <workItem from="1514399863411" duration="9603000" />
+      <workItem from="1514460890130" duration="25812000" />
+      <workItem from="1514534813626" duration="4056000" />
+      <workItem from="1514546813759" duration="11485000" />
+      <workItem from="1515053207114" duration="2334000" />
+      <workItem from="1515076792010" duration="347000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="201600000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17927632" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34539473" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20801815" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4473684" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32012677" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32869694" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32646593" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="118" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="lengths" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/String.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/javafx-src.zip!/javafx/beans/property/StringPropertyBase.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/javafx-src.zip!/javafx/scene/Node.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/javafx-src.zip!/javafx/beans/property/ObjectPropertyBase.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/javafx-src.zip!/javafx/beans/property/StringProperty.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/javafx-src.zip!/javafx/scene/Scene.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/javafx-src.zip!/javafx/event/Event.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/welcome06controller.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/javafx-src.zip!/com/sun/javafx/event/CompositeEventDispatcher.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/javafx-src.zip!/javafx/scene/Scene.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/javafx-src.zip!/javafx/event/Event.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/style02.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/style03.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_144/src.zip!/java/lang/Thread.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/CPUPlayerGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="55" lean-forward="false" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="43" lean-forward="false" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/AbstractComputerStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/welcome01.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/GUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Grid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="61" lean-forward="false" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/style01.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/style04.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/load01.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/welcome07.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="69" column="14" lean-forward="false" selection-start-line="69" selection-start-column="14" selection-end-line="69" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/GameHistory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="49" lean-forward="true" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/MarkPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="4" column="48" lean-forward="true" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/ComputerPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/HumanPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="48" column="61" lean-forward="false" selection-start-line="48" selection-start-column="61" selection-end-line="48" selection-end-column="61" />
+          <folding>
+            <element signature="method#setnotify#0;class#HumanPlayer#0" expanded="false" />
+            <element signature="method#notifyPlayer#0;class#HumanPlayer#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/RandomComputerStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="53" column="9" lean-forward="false" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/SmartComputerStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="97" column="5" lean-forward="true" selection-start-line="97" selection-start-column="5" selection-end-line="97" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/SmartComputerPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="31" column="5" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/RandomComputerPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/style05.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/style06.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/welcome01controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;method#openGameChooser#0;class#welcome01controller#0" expanded="false" />
+            <element signature="method#openGameChooser#0;class#welcome01controller#0" expanded="false" />
+            <element signature="method#battleshipSetup#0;class#welcome01controller#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/GameData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Table01.fxml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Table02.fxml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Table03.fxml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/BattleshipPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="method#acceptPlayerMove#0;class#BattleshipPlayer#0" expanded="false" />
+            <element signature="class#BattleshipMove#0;class#BattleshipPlayer#0" expanded="false" />
+            <element signature="class#BattleshipMoveResult#0;class#BattleshipPlayer#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Ship.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+          <folding>
+            <element signature="method#Ship#0;class#Ship#0" expanded="false" />
+            <element signature="class#getshipsparts#0;class#Ship#0" expanded="false" />
+            <element signature="method#destroyShip#0;class#Ship#0" expanded="false" />
+            <element signature="method#vacant#0;class#Ship#0" expanded="false" />
+            <element signature="method#addShip#0;class#Ship#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Save.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="95" column="0" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+          <folding>
+            <element signature="method#openQuickSave#0;class#Save#0" expanded="false" />
+            <element signature="method#QuickSave#0;class#Save#0" expanded="false" />
+            <element signature="method#endQuickSave#0;class#Save#0" expanded="false" />
+            <element signature="method#opensavef#0;class#Save#0" expanded="false" />
+            <element signature="method#savef#0;class#Save#0" expanded="false" />
+            <element signature="method#endsavef#0;class#Save#0" expanded="false" />
+            <element signature="method#openMarkPlayer#0;class#Save#0" expanded="false" />
+            <element signature="method#SaveMarkPlayer#0;class#Save#0" expanded="false" />
+            <element signature="method#endMarkPlayer#0;class#Save#0" expanded="false" />
+            <element signature="method#openHist#0;class#Save#0" expanded="false" />
+            <element signature="method#saveHist#0;class#Save#0" expanded="false" />
+            <element signature="method#endHist#0;class#Save#0" expanded="false" />
+            <element signature="method#openid#0;class#Save#0" expanded="false" />
+            <element signature="method#idf#0;class#Save#0" expanded="false" />
+            <element signature="method#endid#0;class#Save#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Load.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="102" column="51" lean-forward="false" selection-start-line="102" selection-start-column="51" selection-end-line="102" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#openQuickLoad#0;class#Load#0" expanded="false" />
+            <element signature="method#QuickLoad#0;class#Load#0" expanded="false" />
+            <element signature="method#endQuickLoad#0;class#Load#0" expanded="false" />
+            <element signature="method#opengames#0;class#Load#0" expanded="false" />
+            <element signature="method#loadgames#0;class#Load#0" expanded="false" />
+            <element signature="method#endgames#0;class#Load#0" expanded="false" />
+            <element signature="method#openMarkPlayer#0;class#Load#0" expanded="false" />
+            <element signature="method#loadmarkplayer#0;class#Load#0" expanded="false" />
+            <element signature="method#endmarkplayer#0;class#Load#0" expanded="false" />
+            <element signature="method#openHist#0;class#Load#0" expanded="false" />
+            <element signature="method#loadHist#0;class#Load#0" expanded="false" />
+            <element signature="method#endHist#0;class#Load#0" expanded="false" />
+            <element signature="method#openid#0;class#Load#0" expanded="false" />
+            <element signature="method#idf#0;class#Load#0" expanded="false" />
+            <element signature="method#endid#0;class#Load#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/welcome05addship.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="275" lean-forward="false" selection-start-line="6" selection-start-column="228" selection-end-line="6" selection-end-column="275" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/welcome04.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="34" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/BattleshipGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="25" column="54" lean-forward="false" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+          <folding>
+            <element signature="method#runGame#0;class#BattleshipGame#0" expanded="false" />
+            <element signature="method#subscribe#0;class#BattleshipGame#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/welcome06game.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="39" column="41" lean-forward="false" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/welcome05controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="697" column="0" lean-forward="false" selection-start-line="697" selection-start-column="0" selection-end-line="697" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#setGpgame2#0;class#welcome05controller#0" expanded="false" />
+            <element signature="method#getGetnextmove#0;class#welcome05controller#0" expanded="false" />
+            <element signature="method#initializeGridwithoutattack#0;class#welcome05controller#0" expanded="false" />
+            <element signature="method#initializeGrid#0;class#welcome05controller#0" expanded="false" />
+            <element signature="method#addPane#0;class#welcome05controller#0" expanded="false" />
+            <element signature="method#addPanewithoutindex#0;class#welcome05controller#0" expanded="false" />
+            <element signature="method#mackswitchright#0;class#welcome05controller#0" expanded="false" />
+            <element signature="method#mackswitchup#0;class#welcome05controller#0" expanded="false" />
+            <element signature="method#mackswitchdown#0;class#welcome05controller#0" expanded="false" />
+            <element signature="method#mackswitchleft#0;class#welcome05controller#0" expanded="false" />
+            <element signature="method#toggleAll#0;class#welcome05controller#0" expanded="false" />
+            <element signature="method#updateButtons#0;class#welcome05controller#0" expanded="false" />
+            <element signature="method#setDimLabel#0;class#welcome05controller#0" expanded="false" />
+            <element signature="method#fillShip#0;class#welcome05controller#0" expanded="false" />
+            <element signature="method#load06#0;class#welcome05controller#0" expanded="false" />
+            <element signature="method#handle#0;class#welcome05controller#0" expanded="false" />
+            <element signature="method#setRandom#0;class#welcome05controller#0" expanded="false" />
+            <element signature="method#setSmart#0;class#welcome05controller#0" expanded="false" />
+            <element signature="method#updategpgame2Gridpane#0;class#welcome05controller#0" expanded="false" />
+            <element signature="e#32296#35185#0" expanded="true" />
+            <element signature="e#35184#35185#0" expanded="true" />
+            <element signature="method#turncounter#0;class#welcome05controller#0" expanded="false" />
+            <element signature="e#35351#35844#0" expanded="true" />
+            <element signature="e#35843#35844#0" expanded="true" />
+            <element signature="method#updatecoumputerGridpane#0;class#welcome05controller#0" expanded="false" />
+            <element signature="e#36024#37122#0" expanded="true" />
+            <element signature="e#37121#37122#0" expanded="true" />
+            <element signature="method#enemyGrid#0;class#welcome05controller#0" expanded="false" />
+            <element signature="e#38394#39730#0" expanded="true" />
+            <element signature="e#39729#39730#0" expanded="true" />
+            <element signature="method#endgame#0;class#welcome05controller#0" expanded="false" />
+            <element signature="method#score#0;class#welcome05controller#0" expanded="false" />
+            <element signature="e#41145#41157#0" expanded="true" />
+            <element signature="method#QuickSave#0;class#welcome05controller#0" expanded="false" />
+            <element signature="method#Savef#0;class#welcome05controller#0" expanded="false" />
+            <element signature="method#QuickLoad#0;class#welcome05controller#0" expanded="false" />
+            <element signature="method#ViewScores#0;class#welcome05controller#0" expanded="false" />
+            <element signature="e#46639#46651#0" expanded="true" />
+            <element signature="method#Loadf#0;class#welcome05controller#0" expanded="false" />
+            <element signature="method#GameHistory#0;class#welcome05controller#0" expanded="false" />
+            <element signature="method#SerchName#0;class#welcome05controller#0" expanded="false" />
+            <element signature="method#LoadGame#0;class#welcome05controller#0" expanded="false" />
+            <element signature="method#entername#0;class#welcome05controller#0" expanded="false" />
+            <element signature="method#SerchNametable2#0;class#welcome05controller#0" expanded="false" />
+            <element signature="method#Stepbystep#0;class#welcome05controller#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>FirstAssignment:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>FirstAssignment</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jfoenix</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

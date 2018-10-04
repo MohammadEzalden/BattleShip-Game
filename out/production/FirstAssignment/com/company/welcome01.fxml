@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane prefHeight="394.0" prefWidth="702.0" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.company.welcome01controller">
+    <children>
+        <ImageView fx:id="background" fitHeight="415.0" fitWidth="715" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@WelcomeBG.jpg" />
+            </image>
+        </ImageView>
+        <HBox layoutX="288.0" layoutY="317.0" />
+      <JFXButton fx:id="chooseGameButton" buttonType="RAISED" layoutX="218.0" layoutY="340.0" onAction="#openGameChooser" prefHeight="46.0" prefWidth="233.0" stylesheets="@style03.css" text="Choose Your Game">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </JFXButton>
+    </children>
+</Pane>

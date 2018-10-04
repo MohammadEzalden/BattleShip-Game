@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.*?>
+<?import javafx.scene.layout.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="452.0" prefWidth="874.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.company.welcome05controller">
+   <children>
+      <TableView fx:id="table2" layoutY="27.0" prefHeight="425.0" prefWidth="874.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="27.0">
+        <columns>
+          <TableColumn fx:id="ctime" prefWidth="248.0" text="Time">
+               <columns>
+                  <TableColumn fx:id="chour" prefWidth="75.0" text="Hour" />
+                  <TableColumn fx:id="cminute" prefWidth="75.0" text="Minute" />
+               </columns></TableColumn>
+            <TableColumn fx:id="cnameenmy2" prefWidth="275.0" text="Name Enmy" />
+            <TableColumn fx:id="cid2" prefWidth="101.0" text="Id Game" />
+            <TableColumn fx:id="cname2" prefWidth="101.0" text="Name Player" />
+        </columns>
+         <columnResizePolicy>
+            <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+         </columnResizePolicy>
+      </TableView>
+      <JFXTextField fx:id="serchtable2" layoutY="2.0" onKeyPressed="#SerchNametable2" prefHeight="25.0" prefWidth="167.0" promptText="Serch" />
+      <JFXTextField fx:id="gametable2" layoutX="352.0" layoutY="2.0" onAction="#Stepbystep" prefHeight="25.0" prefWidth="174.0" promptText="Get Game" />
+   </children>
+</AnchorPane>
